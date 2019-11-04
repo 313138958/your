@@ -1,3 +1,1 @@
-function Fn (){
-    alert(1+1)
-}
+alert('哟吼吼')
